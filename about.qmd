@@ -1,0 +1,16 @@
+---
+title: "Who is L8rhosen?"
+image: CODProfile.jpg
+about:
+  template: jolla
+  links:
+    - icon: youtube
+      text: GET SOME
+      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    - icon: xbox
+      text: It's in the game
+      href: https://www.xbox.com/en-US/play/user/l8rhosen
+---
+
+
+This website is mine. There are many like it, but this one is mine.

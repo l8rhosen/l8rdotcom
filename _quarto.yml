@@ -9,6 +9,9 @@ website:
   navbar:
     right:
       - about.qmd
+  open-graph:
+    site-name: L8rhosen
+
 format:
   html:
     theme: superhero

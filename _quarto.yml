@@ -11,6 +11,7 @@ website:
       - about.qmd
   open-graph:
     site-name: L8rhosen
+  google-analytics: G-JJJJG6SFGC
 
 format:
   html:

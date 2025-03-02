@@ -3,7 +3,7 @@ title: "Split it Good!"
 author: "L8rhosen"
 date: "2025-3-2"
 image: keyboard_square.jpg
-description: "Let's talk about keyboards. Let's talk about all the good things\
+description: "Let's talk about keyboards. Let's talk about all the good things \
              and the bad things that may be."
 categories: [reviews]
 include-after-body:

@@ -1,0 +1,57 @@
+---
+title: "Split it Good!"
+author: "L8rhosen"
+date: "2025-3-2"
+image: keyboard_square.jpg
+description: "Let's talk about keyboards. Let's talk about all the good things\
+             and the bad things that may be."
+categories: [reviews]
+include-after-body:
+    text: This review was **NOT** created with AI/LLM, with the exception of the image.
+---
+
+![](https://d2934l8aalci8b.cloudfront.net/images/keyboard.jpeg)
+
+# It's an Advantage
+
+This is my very biased review of the [Kenisis Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/). I'm not going to give a long description of what it is in some overview. You found this page.. you can click a link or use a search engine. So if you want more information, do that. I've had this keyboard for about 2 months and have used this as my only keyboard the entire time. For both work and home use. Note, I don't game on PC (at the moment), it is not a gaming keyboard.. but you should already know that.
+
+## TLDR\~
+
+It's a really good keyboard. From build quality to the software, I'm enjoying everything about this keyboard. I went with the pink key switches and they are very good. It is responsive and just enough clickiness to satisfy. To summarize as the yutes say.. 10/10 would recommend.
+
+But, and it's a big but that Anthony Ray would appreciate, you have to be ready to commit and retrain your brain.
+
+## Hardware
+
+Kenisis had been doing this for decades. They know what they are doing. Aluminum chassis with high quality plastic over it. I have absolutely zero complaints. I'll be talking about my specific configuration, the Pro with `Kailh Quiet Pink` switches. There is a "brown" switch option. Or you can order a custom built version and specify switches, colors, keycaps, etc.
+
+The pink switches are just the right balance of tactile clickiness and quieter sound. They are also very responsive. It took a few days of regular use to get accustomed to how sensitive they can be.
+
+I also got the wrist pad/rests, but I've found I prefer to not have them on. They are nice and magnetically attach to always be in the correct place. I tried several times to like them, but just found it more comfortable without them.
+
+## Ergo, not ego
+
+I am not going to go into all the details of an ergonmic split keyboard, nor will I go into all the details of why or why not to choose one. There is a plethora of information out there on the topic. As before, you can use a search engine if needed.
+
+For me, the ergonomics are top-notch. I've always loved a split keyboard, this is my first with thumb clusters. They are pretty natural and really reduce the finger travel to access certain keys. The biggest learnig curve is using the modifier keys.. shift, control, alt. etc. Finding the arrow keys also took awhile to get used to and I still am not 100% trained for them, yet.
+
+This is an ortho-linear layout. The key columns are not offset, but instead directly above each other. This didn't take as long to get used to as I had thought. After a few days, I wasn't hitting the wrong keys at all due to the layout. Just my normal fat fingering of keys I've always had. One defining feature of the Advantage over other split keyboards are the deep concave wells the keys form. It's integral to the ergonomics of it... and it works really well. My hands felt natural in this position the very first time I used the keybard.
+
+The tenting options are good. I've experimented with them all and the lowest or middle is about right for me. I also find myslef rotating each half to different angles. This just depends on my body position and posture (I have mulitple monitors and rotate my position often).
+
+## P.R.O
+
+It's now the official keyboard of PROHOUSE EMERALD CITY.. so I had to get the "pro" version. It has bluetooth connectivity unlike the non-pro version. It also use ZMK firmware.. an open source keyboard firmware. Like you, I also didn't know what the hell it was at first. Basically, with it you can change just about anything about this keyboard. Kenisis also recently released a new version of their fork of ZMK that includes a GUI style interface to configure things. Previously you had to re-flash the firmware with new configurations, which could be a pain in the ass. With the new version, it just loads it for you and no flashing needed.
+
+Macros. I'm just starting the scratch the surface of the macros. Basically there are 4 dedicated macro keys. Handily near the index finger. Very powerful as macros can be.. mine are just set for copy-pasta at the moment.
+
+Layers. I haven't started diving into layers yet. This is where the power really lies. There is 1 extra layer by default, for a number keypad. I'm trying to train myself to use it. Eventually, I'll get more into the layers. Basicall, you can setup any number of layers which completely change the keyboard layout and functionality. For example, the keypad layer changes the u,i,o,j,k,l,m, keys to be a keypad. I've heard of other use it change their home row keys (a,s,d,f,etc) to have other functions as well. It's probably the most powerful part of the firmware.
+
+## End of Line.
+
+Yep. it's great. It costs A LOT. Like A LOT. But for me, it was totally worth it. Great ergonomics, great keyboard, and fully customizable. Couldn't ask for more.
+
+You will need to invest time into learning the layout. It takes time and practice. So if you can commit, it's 100% worth it all.
+
+The think is built like a tank. Kenisis has been doing this forever and it shows. I'm all in and won't go back.

@@ -21,4 +21,8 @@ format:
 execute:
   freeze: auto
 
+editor:
+  markdown: 
+    canonical: true
+
 

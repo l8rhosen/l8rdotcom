@@ -14,7 +14,7 @@ include-after-body:
 
 # It's an Advantage
 
-This is my very biased review of the [Kenisis Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/). I'm not going to give a long description of what it is in some overview. You found this page.. you can click a link or use a search engine. So if you want more information, do that. I've had this keyboard for about 2 months and have used this as my only keyboard the entire time. For both work and home use. Note, I don't game on PC (at the moment), it is not a gaming keyboard.. but you should already know that.
+This is my very biased review of the [Kinesis Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/). I'm not going to give a long description of what it is in some overview. You found this page.. you can click a link or use a search engine. So if you want more information, do that. I've had this keyboard for about 2 months and have used this as my only keyboard the entire time. For both work and home use. Note, I don't game on PC (at the moment), it is not a gaming keyboard.. but you should already know that.
 
 ## TLDR\~
 
@@ -24,7 +24,7 @@ But, and it's a big but that Anthony Ray would appreciate, you have to be ready 
 
 ## Hardware
 
-Kenisis had been doing this for decades. They know what they are doing. Aluminum chassis with high quality plastic over it. I have absolutely zero complaints. I'll be talking about my specific configuration, the Pro with `Kailh Quiet Pink` switches. There is a "brown" switch option. Or you can order a custom built version and specify switches, colors, keycaps, etc.
+Kinesis had been doing this for decades. They know what they are doing. Aluminum chassis with high quality plastic over it. I have absolutely zero complaints. I'll be talking about my specific configuration, the Pro with `Kailh Quiet Pink` switches. There is a "brown" switch option. Or you can order a custom built version and specify switches, colors, keycaps, etc.
 
 The pink switches are just the right balance of tactile clickiness and quieter sound. They are also very responsive. It took a few days of regular use to get accustomed to how sensitive they can be.
 
@@ -40,7 +40,7 @@ This is an ortho-linear layout. The key columns are not offset, but instead dire
 
 The tenting options are good. I've experimented with them all and the lowest or middle is about right for me. I also find myslef rotating each half to different angles. This just depends on my body position and posture (I have mulitple monitors and rotate my position often).
 
-## P.R.O
+## P.R.O.
 
 It's now the official keyboard of PROHOUSE EMERALD CITY.. so I had to get the "pro" version. It has bluetooth connectivity unlike the non-pro version. It also use ZMK firmware.. an open source keyboard firmware. Like you, I also didn't know what the hell it was at first. Basically, with it you can change just about anything about this keyboard. Kenisis also recently released a new version of their fork of ZMK that includes a GUI style interface to configure things. Previously you had to re-flash the firmware with new configurations, which could be a pain in the ass. With the new version, it just loads it for you and no flashing needed.
 
@@ -54,4 +54,4 @@ Yep. it's great. It costs A LOT. Like A LOT. But for me, it was totally worth it
 
 You will need to invest time into learning the layout. It takes time and practice. So if you can commit, it's 100% worth it all.
 
-The think is built like a tank. Kenisis has been doing this forever and it shows. I'm all in and won't go back.
+The thing is built like a tank. Kinesis has been doing this forever and it shows. I'm all in and won't go back.

@@ -5,6 +5,7 @@ project:
 
 website:
   title: "L8rhosen dot com"
+  site-url: https://www.l8rhosen.com
   favicon: CODProfile.jpg
   navbar:
     right:

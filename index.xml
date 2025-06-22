@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>L8rhosen dot com</title>
+<link>https://www.l8rhosen.com/</link>
+<atom:link href="https://www.l8rhosen.com/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Sun, 22 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>WTF</title>
+  <dc:creator>L8rhosen </dc:creator>
+  <link>https://www.l8rhosen.com/posts/2025-6-22_wtf/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Enough said.</p>
+<p>End of line.</p>
+
+
+
+ ]]></description>
+  <category>rants</category>
+  <guid>https://www.l8rhosen.com/posts/2025-6-22_wtf/</guid>
+  <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Split it Good!</title>
+  <dc:creator>L8rhosen </dc:creator>
+  <link>https://www.l8rhosen.com/posts/2025-3-2_keyboard/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://d2934l8aalci8b.cloudfront.net/images/keyboard.jpeg" class="img-fluid"></p>
+<section id="its-an-advantage" class="level1">
+<h1>It’s an Advantage</h1>
+<p>This is my very biased review of the <a href="https://kinesis-ergo.com/keyboards/advantage360/">Kinesis Advantage 360</a>. I’m not going to give a long description of what it is in some overview. You found this page.. you can click a link or use a search engine. So if you want more information, do that. I’ve had this keyboard for about 2 months and have used this as my only keyboard the entire time. For both work and home use. Note, I don’t game on PC (at the moment), it is not a gaming keyboard.. but you should already know that.</p>
+<section id="tldr" class="level2">
+<h2 class="anchored" data-anchor-id="tldr">TLDR~</h2>
+<p>It’s a really good keyboard. From build quality to the software, I’m enjoying everything about this keyboard. I went with the pink key switches and they are very good. It is responsive and just enough clickiness to satisfy. To summarize as the yutes say.. 10/10 would recommend.</p>
+<p>But, and it’s a big but that Anthony Ray would appreciate, you have to be ready to commit and retrain your brain.</p>
+</section>
+<section id="hardware" class="level2">
+<h2 class="anchored" data-anchor-id="hardware">Hardware</h2>
+<p>Kinesis had been doing this for decades. They know what they are doing. Aluminum chassis with high quality plastic over it. I have absolutely zero complaints. I’ll be talking about my specific configuration, the Pro with <code>Kailh Quiet Pink</code> switches. There is a “brown” switch option. Or you can order a custom built version and specify switches, colors, keycaps, etc.</p>
+<p>The pink switches are just the right balance of tactile clickiness and quieter sound. They are also very responsive. It took a few days of regular use to get accustomed to how sensitive they can be.</p>
+<p>I also got the wrist pad/rests, but I’ve found I prefer to not have them on. They are nice and magnetically attach to always be in the correct place. I tried several times to like them, but just found it more comfortable without them.</p>
+</section>
+<section id="ergo-not-ego" class="level2">
+<h2 class="anchored" data-anchor-id="ergo-not-ego">Ergo, not ego</h2>
+<p>I am not going to go into all the details of an ergonmic split keyboard, nor will I go into all the details of why or why not to choose one. There is a plethora of information out there on the topic. As before, you can use a search engine if needed.</p>
+<p>For me, the ergonomics are top-notch. I’ve always loved a split keyboard, this is my first with thumb clusters. They are pretty natural and really reduce the finger travel to access certain keys. The biggest learnig curve is using the modifier keys.. shift, control, alt. etc. Finding the arrow keys also took awhile to get used to and I still am not 100% trained for them, yet.</p>
+<p>This is an ortho-linear layout. The key columns are not offset, but instead directly above each other. This didn’t take as long to get used to as I had thought. After a few days, I wasn’t hitting the wrong keys at all due to the layout. Just my normal fat fingering of keys I’ve always had. One defining feature of the Advantage over other split keyboards are the deep concave wells the keys form. It’s integral to the ergonomics of it… and it works really well. My hands felt natural in this position the very first time I used the keybard.</p>
+<p>The tenting options are good. I’ve experimented with them all and the lowest or middle is about right for me. I also find myslef rotating each half to different angles. This just depends on my body position and posture (I have mulitple monitors and rotate my position often).</p>
+</section>
+<section id="p.r.o." class="level2">
+<h2 class="anchored" data-anchor-id="p.r.o.">P.R.O.</h2>
+<p>It’s now the official keyboard of PROHOUSE EMERALD CITY.. so I had to get the “pro” version. It has bluetooth connectivity unlike the non-pro version. It also use ZMK firmware.. an open source keyboard firmware. Like you, I also didn’t know what the hell it was at first. Basically, with it you can change just about anything about this keyboard. Kenisis also recently released a new version of their fork of ZMK that includes a GUI style interface to configure things. Previously you had to re-flash the firmware with new configurations, which could be a pain in the ass. With the new version, it just loads it for you and no flashing needed.</p>
+<p>Macros. I’m just starting the scratch the surface of the macros. Basically there are 4 dedicated macro keys. Handily near the index finger. Very powerful as macros can be.. mine are just set for copy-pasta at the moment.</p>
+<p>Layers. I haven’t started diving into layers yet. This is where the power really lies. There is 1 extra layer by default, for a number keypad. I’m trying to train myself to use it. Eventually, I’ll get more into the layers. Basicall, you can setup any number of layers which completely change the keyboard layout and functionality. For example, the keypad layer changes the u,i,o,j,k,l,m, keys to be a keypad. I’ve heard of other use it change their home row keys (a,s,d,f,etc) to have other functions as well. It’s probably the most powerful part of the firmware.</p>
+</section>
+<section id="end-of-line." class="level2">
+<h2 class="anchored" data-anchor-id="end-of-line.">End of Line.</h2>
+<p>Yep. it’s great. It costs A LOT. Like A LOT. But for me, it was totally worth it. Great ergonomics, great keyboard, and fully customizable. Couldn’t ask for more.</p>
+<p>You will need to invest time into learning the layout. It takes time and practice. So if you can commit, it’s 100% worth it all.</p>
+<p>The thing is built like a tank. Kinesis has been doing this forever and it shows. I’m all in and won’t go back.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>reviews</category>
+  <guid>https://www.l8rhosen.com/posts/2025-3-2_keyboard/</guid>
+  <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.l8rhosen.com/posts/2025-3-2_keyboard/keyboard_square.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Reveal this!</title>
+  <dc:creator>L8rhosen </dc:creator>
+  <link>https://www.l8rhosen.com/posts/2024-12-3_reveal-rant/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="all-will-be-revealed" class="level1">
+<h1>All will be revealed</h1>
+<p>Give me a fucking break with the “reveal” of anything. So much click bait … “Your Mom <strong>reveals</strong> how she made dinner”. Please just stop. Every other headline, video description, social media post… “<strong>reveals</strong>” something. I can’t fucking stand it anymore.</p>
+<p>From this day forward, I will not click on nor read any article that “<strong>reveals</strong>” anything. Be a like a 70’s porn star and leave it natural, letting it all hang out.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>rants</category>
+  <guid>https://www.l8rhosen.com/posts/2024-12-3_reveal-rant/</guid>
+  <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://www.l8rhosen.com/posts/2024-12-3_reveal-rant/reveal.png" medium="image" type="image/png" height="44" width="144"/>
+</item>
+<item>
+  <title>Thankful</title>
+  <dc:creator>L8rhosen </dc:creator>
+  <link>https://www.l8rhosen.com/posts/12-1-2024_thoughts/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The annual ritual of friends, family, football, and gorging like I’m a Harkonnen was this week.</p>
+<p>Probably sappy, but I like to reflect on what I’m thankful for. Not something my family did, etc. But I think it is important. Reflection is always important.</p>
+<p>Try. Fail. Learn.</p>
+<p>I’m not sharing those things here. I just wanted to say that I’m thankful for more than I know. It is important to let those involved to know that you are thankful and more importantly, why you are thankful. It’s easy to forget how acknowledging someone can make them appreciate you… and just make them feel better about themselves. Give the shit-show that appears to be coming for us all, it’s a good idea to feel good sometimes.</p>
+<p>So get your asses out there and say <strong>THANK YOU!</strong></p>
+
+
+
+ ]]></description>
+  <category>ramblings</category>
+  <guid>https://www.l8rhosen.com/posts/12-1-2024_thoughts/</guid>
+  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://www.l8rhosen.com/posts/12-1-2024_thoughts/neonTurkey.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rebooted</title>
+  <dc:creator>L8rhosen </dc:creator>
+  <link>https://www.l8rhosen.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="welcome-to-l8rhosen.com-2.0" class="level1">
+<h1>Welcome to L8rhosen.com 2.0</h1>
+<p>It’s my playground. It’s what I want. If you don’t like it, then don’t like it.</p>
+<section id="can-you-give-feedback" class="level2">
+<h2 class="anchored" data-anchor-id="can-you-give-feedback">Can you give feedback?</h2>
+<p>Nope.</p>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">????</h2>
+<p>This was a different site before.. I got bored, so now it’s this.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>announcements</category>
+  <guid>https://www.l8rhosen.com/posts/welcome/</guid>
+  <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
